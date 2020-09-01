@@ -19,7 +19,7 @@ spec:
 """
     }
   }
-  environment {
+  environment { 
     TOKEN=credentials('823af0c8-8029-46db-9041-ad80c144bcb6')
   }
 
